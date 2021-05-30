@@ -1,1 +1,1 @@
-# CAPSTONE-1-retail-sales-prediction
+# CAPSTONE-2-retail-sales-prediction
